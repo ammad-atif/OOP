@@ -1,0 +1,1 @@
+template is used before friend fumction in private of class because friend is not a member function of that class.
